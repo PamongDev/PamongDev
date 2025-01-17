@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PamongDev
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on My Self
+- 💞️ I have a focus on developing myself to be better
 
 <!---
 PamongDev/PamongDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
